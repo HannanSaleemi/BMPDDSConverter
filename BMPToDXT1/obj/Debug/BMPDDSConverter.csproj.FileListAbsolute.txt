@@ -1,0 +1,6 @@
+D:\GoogleDrive\Coding\Private\Redlynx\BMPDDSConverter\BMPToDXT1\bin\Debug\BMPDDSConverter.exe.config
+D:\GoogleDrive\Coding\Private\Redlynx\BMPDDSConverter\BMPToDXT1\bin\Debug\BMPDDSConverter.exe
+D:\GoogleDrive\Coding\Private\Redlynx\BMPDDSConverter\BMPToDXT1\bin\Debug\BMPDDSConverter.pdb
+D:\GoogleDrive\Coding\Private\Redlynx\BMPDDSConverter\BMPToDXT1\obj\Debug\BMPDDSConverter.csprojResolveAssemblyReference.cache
+D:\GoogleDrive\Coding\Private\Redlynx\BMPDDSConverter\BMPToDXT1\obj\Debug\BMPDDSConverter.exe
+D:\GoogleDrive\Coding\Private\Redlynx\BMPDDSConverter\BMPToDXT1\obj\Debug\BMPDDSConverter.pdb

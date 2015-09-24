@@ -1,0 +1,12 @@
+C:\Users\abesz\Google Drive\Coding\Private\Redlynx\BMPToDXT1\BMPToDXT1\bin\Debug\BMPToDXT1.exe.config
+C:\Users\abesz\Google Drive\Coding\Private\Redlynx\BMPToDXT1\BMPToDXT1\bin\Debug\BMPToDXT1.exe
+C:\Users\abesz\Google Drive\Coding\Private\Redlynx\BMPToDXT1\BMPToDXT1\bin\Debug\BMPToDXT1.pdb
+C:\Users\abesz\Google Drive\Coding\Private\Redlynx\BMPToDXT1\BMPToDXT1\obj\Debug\BMPToDXT1.csprojResolveAssemblyReference.cache
+C:\Users\abesz\Google Drive\Coding\Private\Redlynx\BMPToDXT1\BMPToDXT1\obj\Debug\BMPToDXT1.exe
+C:\Users\abesz\Google Drive\Coding\Private\Redlynx\BMPToDXT1\BMPToDXT1\obj\Debug\BMPToDXT1.pdb
+D:\GoogleDrive\Coding\Private\Redlynx\BMPToDXT1\BMPToDXT1\bin\Debug\BMPToDXT1.exe.config
+D:\GoogleDrive\Coding\Private\Redlynx\BMPToDXT1\BMPToDXT1\obj\Debug\BMPToDXT1.exe
+D:\GoogleDrive\Coding\Private\Redlynx\BMPToDXT1\BMPToDXT1\obj\Debug\BMPToDXT1.pdb
+D:\GoogleDrive\Coding\Private\Redlynx\BMPToDXT1\BMPToDXT1\obj\Debug\BMPToDXT1.csprojResolveAssemblyReference.cache
+D:\GoogleDrive\Coding\Private\Redlynx\BMPToDXT1\BMPToDXT1\bin\Debug\BMPToDXT1.exe
+D:\GoogleDrive\Coding\Private\Redlynx\BMPToDXT1\BMPToDXT1\bin\Debug\BMPToDXT1.pdb
